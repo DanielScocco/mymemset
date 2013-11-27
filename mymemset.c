@@ -19,7 +19,7 @@
 /* int size: number of elements in the array             */
 /*********************************************************/
 
-asmlinkage long mymemset(int option, int value, void* ptr, int size){
+asmlinkage long sys_mymemset(int option, int value, void* ptr, int size){
 	char c = (char) value;
 	char arr[4];
 	int i,j;
