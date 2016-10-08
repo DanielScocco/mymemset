@@ -16,3 +16,7 @@ IMPLEMENTACAO
 	obj-y                                   += mymemset.o
 
 Feito isso basta re-compilar o kernel e testar a syscall com memsetTest.c
+
+Autor: Daniel Scocco
+Email: danielscocco@gmail.com
+Blog: http://danielscocco.com
