@@ -1,6 +1,3 @@
-MC504 - Projeto 2
-Daniel Scocco - RA 121937
-
 DESCRICAO
 mymemset.c e uma chamada de sistema que preenche um vetor de chars ou de ints
 com o valor passado como parametro. Ela e uma modificacao da funcao memset
